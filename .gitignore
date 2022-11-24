@@ -1,0 +1,6 @@
+build/
+*.cpp#
+*.hpp#
+*.cpp~
+*.hpp~
+.#*
